@@ -10,3 +10,5 @@ mongoose.connect("mongodb+srv://electiva1:electiva1@cluster0.dolot0f.mongodb.net
     console.log("Database conection error"));
 
 app.listen(port, () =>{console.log('Conect with the port ', port);})
+
+console.log('Estamos en examen de electiva 1');
